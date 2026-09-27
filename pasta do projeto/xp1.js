@@ -35,3 +35,4 @@ else if (xp >=10001){
     nível = "Radiante";
     console.log(`O Herói de nome: ${name} tem ${xp} de XP e está no nível de ${nível}`);
 }
+//Ficou top
